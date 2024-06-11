@@ -1,6 +1,3 @@
-<head>
-    <title>Invoice Data Transformation</title>
-</head>
 <body>
     <h1>Invoice Data Transformation</h1>
     <p>This project involves transforming unstructured invoice data into a structured format using a custom DataExtractor class. The data is loaded from a pickle file containing scanned invoices and a text file listing expired invoice IDs. Each invoice contains various properties and a list of items, which are also detailed with specific properties.</p>
